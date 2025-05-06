@@ -1,0 +1,7 @@
+C:\Users\Public\Documents\СМ\Test_1_2_3\Test_1_2_3\bin\Debug\Test_1_2_3.exe.config
+C:\Users\Public\Documents\СМ\Test_1_2_3\Test_1_2_3\bin\Debug\Test_1_2_3.exe
+C:\Users\Public\Documents\СМ\Test_1_2_3\Test_1_2_3\bin\Debug\Test_1_2_3.pdb
+C:\Users\Public\Documents\СМ\Test_1_2_3\Test_1_2_3\obj\Debug\Test1.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\СМ\Test_1_2_3\Test_1_2_3\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\СМ\Test_1_2_3\Test_1_2_3\obj\Debug\Test_1_2_3.exe
+C:\Users\Public\Documents\СМ\Test_1_2_3\Test_1_2_3\obj\Debug\Test_1_2_3.pdb
